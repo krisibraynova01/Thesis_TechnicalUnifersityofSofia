@@ -12,6 +12,10 @@ In addition, I made a Power BI Dashboard to show various visualization technique
 
 The 270 page documentation I made I can't upload here due to copyright and my university's rules but if you have any questions or content recommendations I remain available.
 
+You can see the report in Power BI here: https://app.powerbi.com/groups/me/reports/61a9a9ad-2975-4e68-8453-272ec8d1d792/ReportSection?experience=power-bi
+
+
+
 
 
 
