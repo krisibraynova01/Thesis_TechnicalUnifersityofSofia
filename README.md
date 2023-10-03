@@ -8,7 +8,7 @@ The data set I used is Customer Personality Analysis at Kaggle: https://www.kagg
 
 I went through all stages of data exploration using Python for data insights and analyzing customer behavior and clustering.
 
-In addition, I made a Power BI Dashboard to show various visualization techniques and visualizations I've used with Python. I also made a short guide for the main steps I followed in Power BI.
+In addition, I made a Power BI dashboard to show different visualization techniques and visualizations I've used with Python as well as to show everything I've learned from the courses I've taken. I also made a quick guide on the main steps I followed in Power BI.
 
 The 270 page documentation I made I can't upload here due to copyright and my university's rules but if you have any questions or content recommendations I remain available.
 
