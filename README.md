@@ -4,7 +4,7 @@ Hello, this is my Graduation Thesis for Bachelor's Degree in Management and Busi
 
 ![image](https://github.com/krisibraynova01/Thesis_TechnicalUnifersityofSofia/assets/123834461/512c2da0-14f0-4e4a-a1bb-598b7e238c08)
 
-Project Title: Analysis of Customer Behavior and Segmentation by Machine Learning
+*Project Title*: Analysis of Customer Behavior and Segmentation by Machine Learning
 
 ## Project Description:
 
