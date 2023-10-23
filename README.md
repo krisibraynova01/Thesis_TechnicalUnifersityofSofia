@@ -22,9 +22,9 @@ Key Achievements and Responsibilities:
 
 - Insight Generation: Interpreted and analyzed the results to derive actionable insights for business decision-making, including personalized marketing strategies and product recommendations.
 
-- Thesis Writing: Composed a comprehensive thesis paper that detailed the research methodology, findings, and conclusions, adhering to academic standards and guidelines.
+- Thesis Writing: Compilation a comprehensive thesis paper that detailed the research methodology, findings, and conclusions, adhering to academic standards and guidelines.
 
-- Presentation: Delivered a compelling presentation to a panel of professors and peers, effectively communicating the project's significance and key takeaways.
+- Presentation: Delivering a compelling presentation to a panel of professors and peers, effectively communicating the project's significance and key takeaways.
 
 I went through all stages of data exploration using Python for data insights and analyzing customer behavior and clustering.
 
