@@ -6,11 +6,11 @@ Hello, this is my Graduation Thesis for Bachelor's Degree in Management and Busi
 
 Project Title: Analysis of Customer Behavior and Segmentation by Machine Learning
 
-Project Description:
+## Project Description:
 
 During my academic journey, I undertook a comprehensive research project for my graduation thesis, focusing on the analysis of customer behavior and their segmentation through the application of machine learning techniques. This project allowed me to leverage data-driven insights to understand consumer preferences and optimize marketing strategies, ultimately contributing to improved business performance.
 
-Key Achievements and Responsibilities:
+## Key Achievements and Responsibilities:
 
 - Data Collection and Preprocessing: The data set I used is Customer Personality Analysis at Kaggle: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
@@ -34,7 +34,7 @@ The 270 page documentation I made I can't upload here due to copyright and my un
 
 You can see the report in Power BI here: https://app.powerbi.com/groups/me/reports/61a9a9ad-2975-4e68-8453-272ec8d1d792/ReportSection?experience=power-bi
 
-Outcome:
+## Outcome:
 
 The project not only provided a deeper understanding of customer behavior but also demonstrated my proficiency in machine learning techniques, data analysis, and communication of complex technical concepts. The segmentation models I developed had practical applications in marketing and contributed to a more data-driven and customer-centric approach in business strategy.
 
