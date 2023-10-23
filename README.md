@@ -1,6 +1,6 @@
 # Graduation Thesis 
 
-Hello, this is my Graduation Thesis for Bachelor Degree of Management and Business Information Systems at Technical University of Sofia
+Hello, this is my Graduation Thesis for Bachelor's Degree in Management and Business Information Systems at Technical University of Sofia
 
 ![image](https://github.com/krisibraynova01/Thesis_TechnicalUnifersityofSofia/assets/123834461/512c2da0-14f0-4e4a-a1bb-598b7e238c08)
 
@@ -12,21 +12,19 @@ During my academic journey, I undertook a comprehensive research project for my 
 
 Key Achievements and Responsibilities:
 
-- Data Collection and Preprocessing: Gathered extensive customer data from various sources, ensuring data integrity and relevance for the analysis.
+- Data Collection and Preprocessing: The data set I used is Customer Personality Analysis at Kaggle: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 - Feature Engineering: Conducted feature engineering to extract valuable insights from the raw data, enabling a more robust analysis.
 
-- Machine Learning Models: Developed and implemented machine learning models such as clustering algorithms (e.g., K-Means) to segment customers based on their behavior and predict future actions.
+- Machine Learning Models: Developed and implemented machine learning models such as clustering algorithms (K-Means) to segment customers based on their behavior and predict future actions.
 
-- Data Visualization: Utilized data visualization tools (e.g., matplotlib, seaborn) to create meaningful visual representations of the results, making it easier to communicate findings and recommendations.
+- Data Visualization: Utilized data visualization tools (matplotlib, seaborn) to create meaningful visual representations of the results, making it easier to communicate findings and recommendations.
 
 - Insight Generation: Interpreted and analyzed the results to derive actionable insights for business decision-making, including personalized marketing strategies and product recommendations.
 
 - Thesis Writing: Composed a comprehensive thesis paper that detailed the research methodology, findings, and conclusions, adhering to academic standards and guidelines.
 
 - Presentation: Delivered a compelling presentation to a panel of professors and peers, effectively communicating the project's significance and key takeaways.
-
-The data set I used is Customer Personality Analysis at Kaggle: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 I went through all stages of data exploration using Python for data insights and analyzing customer behavior and clustering.
 
